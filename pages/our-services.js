@@ -10,7 +10,7 @@ const Services = () => {
           src={"/image/banners/banner-4.jpeg"}
           alt="CATCHYN"
           fill
-          className="object-cover object-center w-full h-full -z-10 brightness-[0.8]"
+          className="object-cover object-center w-full h-full -z-10 brightness-[0.85]"
         />
         <div className={`absolute inset-0 flex justify-center items-center`}>
           <div className="w-full sm:w-[500px] flex justify-center items-center flex-col lg:gap-9 gap-4">

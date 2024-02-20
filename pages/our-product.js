@@ -9,30 +9,30 @@ const products = [
     desc: [
       "Instantly whiten teeth, give you the brightest smile and reduces the saturation of yellow stains.",
       "40ml",
-      "From the U.S",
+      "From the U.S.",
     ],
   },
   {
     name: "CC Cream -Mushroom Head Air Cushion",
     image: "/image/products/product-2.png",
-    desc: ["Make your base makeup no longer heavy.", "20g", "From the U.S"],
+    desc: ["Make your base makeup no longer heavy.", "20g", "From the U.S."],
   },
   {
     name: "Charmante Hand Skin Serum",
     image: "/image/products/product-3.jpg",
-    desc: ["Reduce wrinkles, instantly hydrate, soothe the skin.", "40ml", "From the U.S"],
+    desc: ["Reduce wrinkles, instantly hydrate, soothe the skin.", "40ml", "From the U.S."],
   },
   {
     name: "Kasomo Hair Growth Spray",
     image: "/image/products/product-4.jpeg",
-    desc: ["Stimulates hair growth, prevents hair loss and improves baldness.", "75ml", "From the U.S"],
+    desc: ["Stimulates hair growth, prevents hair loss and improves baldness.", "75ml", "From the U.S."],
   },
   {
     name: "Kasomo Hair Mask",
     image: "/image/products/product-5.png",
     desc: [
       "Hair mask for healthy, silky hair extracted from vegan. Eliminate frizzy, dry & tangled hair in secs.",
-      "From the U.S",
+      "From the U.S.",
     ],
   },
   {
@@ -40,13 +40,13 @@ const products = [
     image: "/image/products/product-6.jpeg",
     desc: [
       "Regrow beards & eyebrows; thicken, lengthen beards & eyebrows; produce stronger & denser beards; Reduce thin brows, breakage.",
-      "From the U.S",
+      "From the U.S.",
     ],
   },
   {
     name: "Kasomo Shampoo For Hair Loss And Dandruff",
     image: "/image/products/product-7.jpg",
-    desc: ["Prevents hair loss and stops dandruff after 7 days of use.", "From the U.S"],
+    desc: ["Prevents hair loss and stops dandruff after 7 days of use.", "From the U.S."],
   },
   {
     name: "Morri Peeling Lotion",
@@ -59,13 +59,13 @@ const products = [
     desc: [
       "Restore natural hair color, as your daily ordinary shampoo, make your gray or white hair turn into a young and vivid dark color again.",
       "60g",
-      "From the U.S",
+      "From the U.S.",
     ],
   },
   {
     name: "Berari Vein Care Fading Cream (Upgrade version - More effective)",
     image: "/image/products/product-10.jpeg",
-    desc: ["Reducing Varicose Veins and Spiders,  Improves blood circulation.", "30g", "From the U.S"],
+    desc: ["Reducing Varicose Veins and Spiders,  Improves blood circulation.", "30g", "From the U.S."],
   },
 ];
 
